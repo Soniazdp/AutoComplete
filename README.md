@@ -1,4 +1,4 @@
-# Autocomplete Function
+# AutoComplete
 
 This project is a fast implementation of the autocomplete functionality. The task of the program is to quickly retrieve the top terms that match a query string, judging from the importance weight associated with each term.
 
